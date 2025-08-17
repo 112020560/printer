@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="8.5.2" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.5.2" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Messaging/" />
+    <Folder Include="Messaging/RabbitMq/" />
+    <Folder Include="Messaging/RabbitMq/Consumers/" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="../PrinterService.Domain/PrinterService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

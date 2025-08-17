@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "hTByG09oOOUWXPO7Rw+J7zFphkFMlr/EDno7xARwtYQTugto1uqqnX5SvOErijTToLCC/fMFmoIlL0IOHpYl1g==",
+  "success": true,
+  "projectFilePath": "/home/falpizar/Documentos/fuentes/printer/src/PrinterService.Infrastructure/PrinterService.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/falpizar/.nuget/packages/masstransit/8.5.2/masstransit.8.5.2.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/masstransit.abstractions/8.5.2/masstransit.abstractions.8.5.2.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/masstransit.rabbitmq/8.5.2/masstransit.rabbitmq.8.5.2.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.0/microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/8.0.0/microsoft.extensions.diagnostics.healthchecks.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/8.0.0/microsoft.extensions.diagnostics.healthchecks.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.0/microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/rabbitmq.client/7.1.2/rabbitmq.client.7.1.2.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/system.drawing.common/8.0.19/system.drawing.common.8.0.19.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/home/falpizar/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
